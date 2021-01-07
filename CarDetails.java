@@ -6,7 +6,7 @@ public class CarDetails {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the car name:");
 		String carName = sc.nextLine();
-		System.out.println("Enter the car no:");
+		System.out.println("Enter the car number:");
 		String carNo = sc.nextLine();
 		System.out.println("Enter the price of car:");
 		double carPrice = sc.nextDouble();
