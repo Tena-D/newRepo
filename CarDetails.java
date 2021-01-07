@@ -11,6 +11,7 @@ public class CarDetails {
 		String carNo = sc.nextLine();
 		System.out.println("Enter the price:");
 		double carPrice = sc.nextDouble();
+System.out.println("Enter the price:");
 		
 		System.out.println("Car name:"+carName);
 		System.out.println("Car no:"+carNo);
