@@ -18,7 +18,7 @@ System.out.println("Enter the price:");
 		
 		System.out.println("Car name:"+carName);
 		System.out.println("Car no:"+carNo);
-		System.out.println("Price:"+String.format("%.2f", carPrice)+" rs only");
+		System.out.println("Price:"+String.format("%.2f", carPrice)+" Rs only");
 
 	}
 
