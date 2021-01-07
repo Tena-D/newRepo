@@ -10,12 +10,8 @@ public class CarDetails {
 		String carNo = sc.nextLine();
 		System.out.println("Enter the price of car:");
 		double carPrice = sc.nextDouble();
-<<<<<<< HEAD
 System.out.println("Enter the price:");
-=======
-		System.out.println("Added to it");
->>>>>>> new_branch
-		
+		System.out.println("Added to it");	
 		System.out.println("Car name:"+carName);
 		System.out.println("Car no:"+carNo);
 		System.out.println("Price:"+String.format("%.2f", carPrice)+" Rs only");
